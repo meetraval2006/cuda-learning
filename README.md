@@ -1,2 +1,2 @@
 # cuda-learning
-Tinkering with Cuda 
+Tinkering with Cuda to make personal projects
